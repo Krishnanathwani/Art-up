@@ -1,0 +1,8 @@
+*{
+    box-sizing: border-box;
+  } 
+.input-group input[type=text]{
+
+    border: 3px;
+
+}
